@@ -1,7 +1,3 @@
-Entendi! A documentação precisa cobrir os 5 artefatos de forma clara e técnica para o professor avaliar. Vou reescrever cobrindo cada um.
-
----
-
 # Documentação Técnica — MedVision AI
 **Disciplina:** Processamento de Imagens e Sinais (P.I.S.)
 
