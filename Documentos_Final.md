@@ -1,5 +1,5 @@
 # Documentação Técnica — MedVision AI 
-
+Autor: Arthur Nogueira Sousa Elisio
 
 ---
 
