@@ -1,5 +1,5 @@
 # Documentação Técnica — MedVision AI 
-**Disciplina:** Processamento de Imagens e Sinais (P.I.S.)
+
 
 ---
 
